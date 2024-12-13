@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://maventv.one:8080/live/ahmedmustafaa/ahm@82618/246425.m3u8
