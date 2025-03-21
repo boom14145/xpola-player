@@ -1,13 +1,11 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://mavpro.xyz:80//live/889755423uy/com6785242/40200.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://mavpro.xyz:80//live/889755423uy/com6785242/40199.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://mavpro.xyz:80//live/889755423uy/com6785242/78403.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://maventv.one:8080/live/ahmedmustafaa/ahm@82618/246427.m3u8
-#EXTINF:-1, Sharp-witted link
-http://maveniptv.net:8080/live/889755423uy/com6785242/40200.m3u8
-[
-  "https://raw.githubusercontent.com/boom14145/xpola-player/main/asd.m3u|user-agent=live|referer=|httpcanary=false|cast=false|name=(-_-[Houda TV]-_-)",
-  "http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/170|user-agent=StreamwireSmartersPlayer|referer=|httpcanary=false|cast=false|name=(-_-[حوده تيفي]-_-)"
-]
-[
-  "https://raw.githubusercontent.com/boom14145/xpola-player/main/asd1.m3u|user-agent=live|referer=|httpcanary=false|cast=false|name=(-_-[Houda TV]-_-)",
-  "http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/170|user-agent=StreamwireSmartersPlayer|referer=|httpcanary=false|cast=false|name=(-_-[حوده تيفي]-_-)"
-]
+http://mavpro.xyz:80//live/889755423uy/com6785242/61321.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://mavpro.xyz:80//live/889755423uy/com6785242/40200.m3u8
