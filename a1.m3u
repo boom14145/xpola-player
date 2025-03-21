@@ -1,0 +1,8 @@
+#EXTINF:-1, asdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://get-tofi.com/
+#EXTVLCOPT:http-origin=https://get-tofi.com
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd?hdnts=st=1742490399~exp=1742666799~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=9DJC2AMWXMT8~data=aXA9MTU2LjE3OC4zMi40Ng~hmac=fe2614edb0ec20bc3d9be7f7c35646105e83321f8f5725a14efc6a19c3d0f291
+
